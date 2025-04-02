@@ -1,7 +1,8 @@
 # yolov10
 # 첫 시간 
+![김선호](https://github.com/user-attachments/assets/a762d60d-182d-493e-91ac-1102f284fe59)
 
- ![김선호](https://github.com/user-attachments/assets/436014e2-ae87-432f-a28c-5f9b92316c4a)
+
 
 #####구구단 만들기
 ```dash
